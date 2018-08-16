@@ -15,3 +15,9 @@ Setting up an HTML file
   <strong>Head:</strong><br>
   head><br>
     title>TEST TITLE NAME (shows up in browser tab) /title>
+<p>
+  <strong>Directory:</strong><br>
+  Below head> and below body> you can add an anchor tag with a relative path.<br>
+  <a href="./index.html">TEXT HERE</a>
+  <a href="./about.html">TEXT HERE</a>
+  <a href="./contact.html">TEXT HERE</a>
