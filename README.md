@@ -21,3 +21,10 @@ Setting up an HTML file
   <a href="./index.html">TEXT HERE INDEX</a><br>
   <a href="./about.html">TEXT HERE ABOUT</a><br>
   <a href="./contact.html">TEXT HERE CONTACT</a><br>
+<p>
+  <strong>Comments:</strong><br>
+  Begin with < !-- and end with -- ><br>
+<p>
+  <strong>Tags:</strong><br>
+  
+                                      
