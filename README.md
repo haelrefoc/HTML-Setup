@@ -24,7 +24,6 @@ Setting up an HTML file
 <p>
   <strong>Comments:</strong><br>
   Begin with < !-- and end with -- ><br>
-<p>
-  <strong>Tags:</strong><br>
+
   
                                       
