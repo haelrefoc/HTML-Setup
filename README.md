@@ -18,6 +18,6 @@ Setting up an HTML file
 <p>
   <strong>Directory:</strong><br>
   Below head> and below body> you can add an anchor tag with a relative path.<br>
-  <a href="./index.html">TEXT HERE</a>
-  <a href="./about.html">TEXT HERE</a>
-  <a href="./contact.html">TEXT HERE</a>
+  <a href="./index.html">TEXT HERE INDEX</a><br>
+  <a href="./about.html">TEXT HERE ABOUT</a><br>
+  <a href="./contact.html">TEXT HERE CONTACT</a><br>
